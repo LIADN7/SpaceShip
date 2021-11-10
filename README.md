@@ -1,26 +1,19 @@
+# SpaceShip
 
-A project with step-by-step scenes illustrating some of the formal elements of game development in Unity, including: 
+![](https://github.com/LIADN7/SpaceShip/blob/main/Assets/Images/CoverGame.png)
 
-* Prefabs for instantiating new objects;
-* Colliders for triggering outcomes of actions;
-* Coroutines for setting time-based rules.
+Classic spaceship game,
+the Purpose of the game is to blow up as many objects as you can and get as many points as possible,
+Every hit of the spaceship from object kills life so beware!
+You can get a toolbox in the game that will add life to you !!!
 
-Text explanations are available 
-[here](https://github.com/erelsgl-at-ariel/gamedev-5782) in folder 04.
+## Keys:
+* Player 1 - Arrows (up, down, right, left), shot SPACE.
 
-## Cloning
-To clone the project, you may need to install git lfs first (if it is not already installed):
 
-    git lfs install 
+**[GO to the game in itch io](https://liadn7.itch.io/rocketship)**
 
-To clone faster, you can limit the depth to 1 like this:
-
-    git clone --depth=1 https://github.com/<repository-name>.git
-
-When you first open this project, you may not see the text in the score field.
-This is because `TextMeshPro` is not in the project.
-The Unity Editor should hopefully prompt you to import TextMeshPro;
-once you do this, re-open the scenes, and you should be able to see the texts.
+![](https://github.com/LIADN7/SpaceShip/blob/main/Assets/Images/ezgif-2-031ea4127f64.gif)
 
 
 
